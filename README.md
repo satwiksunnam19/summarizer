@@ -3,6 +3,11 @@
 In this covid lockdown everything is going in online from meetings to classes for students it's a kind of all day busy schedule for everyone to help the students to get an intuative idea about what are the main things tought in class or meeting.
 # idea of approach:
 we need an application or an API to convert the vedio into text and then using that text document we can use Google's BERT Summarizer which helps to summarize the document and helps people to go through the text in no time.
+# arrangement of files:
+it consists of three different files named : 
+1.summarized documents
+2.AWS transcribe documents 
+3.programming file : in which the code is developed for the rest of project
 # AWS Transcribe:
 Amazon Transcribe makes it easy for developers to add speech to text capabilities to their applications. Audio data is virtually impossible for computers to search and analyze. Therefore, recorded speech needs to be converted to text before it can be used in applications. Historically, customers had to work with transcription providers that required them to sign expensive contracts and were hard to integrate into their technology stacks to accomplish this task. Many of these providers use outdated technology that does not adapt well to different scenarios, like low-fidelity phone audio common in contact centers, which results in poor accuracy.
 Amazon Transcribe uses a deep learning process called automatic speech recognition (ASR) to convert speech to text quickly and accurately.
